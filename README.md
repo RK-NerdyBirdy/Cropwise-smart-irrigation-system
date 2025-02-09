@@ -30,8 +30,8 @@ smart_irrigation/
 │   ├── label_encoders.pkl                   # Encoders for categorical features
 │   ├── scaler.pkl                           # Scaler for feature normalization
 │── src/
-│   ├── irrigation.py                        # Main prediction script
-│   ├── utils.py                             # Helper functions
+│   ├── prediction.py                        # Main prediction script
+│   ├── loadingmodel.py                             # Helper functions
 │── README.md
 ```
 
